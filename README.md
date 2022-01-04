@@ -6,4 +6,4 @@ Das funcionalidades pedidas, não foi implementado o relatório e também não f
 
 Projeto funciona no endereço/porta padrão de projetos spring. https://localhost:8080.
 
-Swagger dispnível em: http://localhost:8080/swagger-ui.html
+Swagger disponível em: http://localhost:8080/swagger-ui.html
